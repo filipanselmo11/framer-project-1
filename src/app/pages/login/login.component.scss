@@ -1,0 +1,166 @@
+.hero {
+  position: relative;
+  padding: auto;
+  width: 103%;
+  background-color: #240046;
+
+  .navbar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 90px;
+
+    .home__button {
+      color: #FF6D00;
+      background-color: transparent;
+      border: none;
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+      margin-left: 10px;
+    }
+
+    .about__button {
+      color: #FF6D00;
+      background-color: transparent;
+      border: none;
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+    }
+
+    .contact__button {
+      color: #FF6D00;
+      background-color: transparent;
+      border: none;
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+      font-size: 16px;
+    }
+  }
+
+  .slogan {
+    position: relative;
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    color: #FF6D00;
+    padding-top: 37em;
+    font-family: 'Staatliches', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    text-transform: uppercase;
+  }
+}
+
+.action-1 {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding: 100px;
+  background-color: #7B2CBF;
+
+  .title {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    h1 {
+      font-family: 'Staatliches', sans-serif;
+      font-weight: 400;
+      font-size: 30px;
+      text-transform: uppercase;
+      color: #FFFFFF;
+    }
+  }
+
+  .text {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    p {
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+      color: #FFFFFF;
+      text-wrap: nowrap;
+    }
+  }
+
+  .button_class {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    button {
+      width: 80px;
+      height: 30px;
+      color: #FF8500;
+      border: none;
+      background-color: black;
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+    }
+  }
+}
+
+.action-2 {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding: 100px;
+  background-color: #FF9E00;
+
+  .title {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    h1 {
+      font-family: 'Staatliches', sans-serif;
+      font-weight: 400;
+      font-size: 30px;
+      text-transform: uppercase;
+      color: #FFFFFF;
+    }
+  }
+
+  .text {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    p {
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+      color: #FFFFFF;
+      text-wrap: nowrap;
+    }
+  }
+
+  .button_class {
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+    button {
+      width: 80px;
+      height: 30px;
+      color: #FF8500;
+      border: none;
+      background-color: black;
+      font-family: 'Albert Sans', sans-serif;
+      font-weight: 400;
+    }
+  }
+}
+
+.framer-footer {
+  position: relative;
+  width: 90%;
+  height: auto;
+  padding: 100px;
+  background-color: #FF9E00;
+
+}
